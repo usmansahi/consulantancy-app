@@ -1,0 +1,9 @@
+{
+  "emmet.triggerExpansionOnTab": true,
+  "emmet.showSuggestionsAsSnippets": true,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptptreact"
+  },
+  "tailwindCSS.emmetCompletions": true,
+  "emmet.useInlineCompletions": true
+}
